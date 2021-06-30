@@ -1,0 +1,3 @@
+/home/xs/tensorflow_test/test/tflite_c_test/clean_code/build/CMakeFiles/rebuild_cache.dir
+/home/xs/tensorflow_test/test/tflite_c_test/clean_code/build/CMakeFiles/demo.dir
+/home/xs/tensorflow_test/test/tflite_c_test/clean_code/build/CMakeFiles/edit_cache.dir
