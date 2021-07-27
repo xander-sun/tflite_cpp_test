@@ -1,3 +1,6 @@
 # tflite_cpp_test
 
-## ./demo
+## cd build
+## cmake ..
+## make
+
