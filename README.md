@@ -1,12 +1,12 @@
 # tflite_cpp_test
 
 ## Make file
-mkdir build
-cd build
-cmake ..
-make
+mkdir build  
+cd build  
+cmake ..  
+make  
 
 ## Run file
-cd build
+cd build  
 ./demo
 
